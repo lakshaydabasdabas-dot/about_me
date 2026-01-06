@@ -1,0 +1,3 @@
+I am learning c++
+Web Development
+I am writing this txt file through Git in VS code
