@@ -1,23 +1,20 @@
-# about_me
+# About Me
 
 ## Project Overview
-A personal web portal showcasing my journey, portfolio, and key highlights as an AI-native developer and student at DTU.
+A professional portfolio portal designed to showcase my journey as an AI-native developer and student at DTU. This repository serves as a hub for my identity, expertise, and showcase of core technical achievements.
 
 ## Tech Stack
-*   **Language**: Not specified (Base project)
-*   **Key Libraries**: N/A
-*   **Infrastructure**: GitHub Pages / Static hosting
+*   **Core**: HTML5, CSS3, JavaScript
+*   **Hosting**: GitHub Pages
+*   **Modern Practices**: Semantic HTML, Responsive Design
 
 ## Architecture & Design Choices
-- **Design Principles**: Minimalist, clean, and accessible.
-- **Key Patterns**: Static hosting, portfolio showcase, responsive design.
+- **Design Philosophy**: Minimalist aesthetic focusing on content clarity.
+- **Maintainability**: Modular structure to allow quick updates to professional achievements.
 
 ## Setup Instructions
-```bash
-# Clone the repository
-git clone https://github.com/lakshaydabasdabas-dot/about_me.git
-# Open index.html or relevant files in your browser
-```
+1. Clone the repo: `git clone https://github.com/lakshaydabasdabas-dot/about_me.git`
+2. Open `index.html` in your preferred web browser.
 
-## API & Usage Examples
-This repository serves as a static site. No API interaction required.
+## Portfolio & Showcase
+This site represents my professional brand interface. Feel free to explore my latest work, technical blogs, and open-source contributions.
